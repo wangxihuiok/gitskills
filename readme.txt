@@ -1,2 +1,2 @@
-Creating a new branch id quick & simple.
+Creating a new branch id quick and simple.
 
